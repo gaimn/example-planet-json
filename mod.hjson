@@ -1,6 +1,6 @@
 name: ep-json
-displayName: JSON Example Planet
-author: Slotterleet
+displayName: planet test
+author: gai
 subtitle: Jason 2.0 Edition
 description: 
 '''
@@ -8,5 +8,5 @@ This planet has (almost) every single field you can declare in JSON planets. Pre
 
 This is NOT meant to be played.
 '''
-repo: Slotterleet/example-planet-json
-minGameVersion: 141
+repo: gaim/example-planet-json
+minGameVersion: 145
